@@ -1,0 +1,35 @@
+{
+  "name": "interractive-web",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "apollo-boost": "^0.4.7",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.3.1",
+    "geolocation": "^0.2.0",
+    "graphql": "^14.6.0",
+    "react": "^16.8.4",
+    "react-apollo": "^3.1.3",
+    "react-bootstrap": "^1.0.0-beta.5",
+    "react-dom": "^16.8.4",
+    "react-scripts": "^3.4.0",
+    "react-table": "^6.9.2",
+    "reactable": "^1.1.0",
+    "unirest": "^0.6.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
